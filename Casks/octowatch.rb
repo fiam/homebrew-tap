@@ -1,8 +1,8 @@
 cask "octowatch" do
-  version "0.1.0"
-  sha256 "646d33097de05323ad572a7aabe0f8d05451809561f1a5a9fd3be7a397a6aa25"
+  version "0.2.0"
+  sha256 "a2d410609547215c481e3c64aeabddfedc66c120019230128aa2552dd1eea48b"
 
-  url "https://github.com/fiam/octowatch/releases/download/v0.1.0/Octowatch-0.1.0.dmg",
+  url "https://github.com/fiam/octowatch/releases/download/v0.2.0/Octowatch-0.2.0.dmg",
       verified: "github.com/fiam/octowatch/"
   name "Octowatch"
   desc "Native macOS triage inbox for GitHub work"
