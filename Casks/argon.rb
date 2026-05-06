@@ -1,8 +1,8 @@
 cask "argon" do
-  version "0.1.0"
-  sha256 "7795648ea472a61b02f7cf6beb2de8ddac3c8b2137a09d5630f407f42e97e044"
+  version "0.2.0"
+  sha256 "407a6b354e97258c7ac680a58b2f9839d4efb90501abc720ebdb585fa6e33511"
 
-  url "https://github.com/fiam/argon/releases/download/v0.1.0/Argon-0.1.0.dmg",
+  url "https://github.com/fiam/argon/releases/download/v0.2.0/Argon-0.2.0.dmg",
       verified: "github.com/fiam/argon/"
   name "Argon"
   desc "Native macOS workspace for coding agents"
