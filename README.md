@@ -1,18 +1,28 @@
-# Homebrew Tap
+# fiam Homebrew Tap
 
-This tap publishes Homebrew casks for projects from
-[fiam](https://github.com/fiam).
+Homebrew tap for apps and command-line tools from [fiam](https://github.com/fiam).
 
-## Install
+This README is generated from the tap's formulae and casks.
+
+## Setup
 
 ```bash
-brew install --cask fiam/tap/octowatch
+brew tap fiam/tap
 ```
 
-## About
+## Formulae
 
-- Octowatch: https://github.com/fiam/octowatch
-- Releases: https://github.com/fiam/octowatch/releases
+_None yet._
 
-The casks in this tap are updated automatically by their respective
-release workflows.
+## Casks
+
+| Name | Version | Description | Install |
+| --- | --- | --- | --- |
+| [Argon](https://argonapp.dev) | 0.2.0 | Native macOS workspace for coding agents | `brew install --cask fiam/tap/argon` |
+| [Octowatch](https://octowatch.app) | 0.2.0 | Native macOS triage inbox for GitHub work | `brew install --cask fiam/tap/octowatch` |
+
+## Maintenance
+
+Formulae and casks in this tap are updated automatically by their respective
+release workflows. The README is regenerated automatically when tap contents
+change.
