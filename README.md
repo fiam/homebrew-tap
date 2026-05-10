@@ -18,7 +18,7 @@ _None yet._
 
 | Name | Version | Description | Install |
 | --- | --- | --- | --- |
-| [Argon](https://argonapp.dev) | 0.2.0 | Native macOS workspace for coding agents | `brew install --cask fiam/tap/argon` |
+| [Argon](https://argonapp.dev) | 0.3.0 | Native macOS workspace for coding agents | `brew install --cask fiam/tap/argon` |
 | [Octowatch](https://octowatch.app) | 0.2.0 | Native macOS triage inbox for GitHub work | `brew install --cask fiam/tap/octowatch` |
 
 ## Maintenance
